@@ -1,0 +1,8 @@
+.hidden {
+  display: none;
+}
+
+#person1a {
+  text-transform: uppercase;
+  font-weight: bold;
+} 
